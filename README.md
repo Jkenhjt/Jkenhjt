@@ -1,16 +1,20 @@
-## Hi there 👋
+### About
 
-<!--
-**Jkenhjt/Jkenhjt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm backend software engineer, specializing on high performance asynchronous API and libraries.
 
-Here are some ideas to get you started:
+* **Stack**: Python, C, FastAPI, SQLAlchemy, PostgreSQL, SQLite, Redis, Docker / Compose
+* **Focus**: Simple and high performance asynchronous code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Projects
+
+* **[Niteo](https://github.com/Jkenhjt/niteo)** - Asynchronous HTTP server library, written in C. Supports routing and custom HTTP fields for response.
+* **[Dexh1](https://github.com/Jkenhjt/dexh1)** - Fast and low memory usage HTTP parsing library. Main feature: uses hashmap for save fields.
+* **[FastAPI-Boilerplate](https://github.com/FastAPI-Boilerplate)** - boilerplate of fastapi service with configurated docker compose, authorization logic, monitoring and etc.
+
+---
+
+### Connect
+
+ceau3088@gmail.com
